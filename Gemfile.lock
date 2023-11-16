@@ -274,6 +274,9 @@ DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
+  jekyll-paginate
+  jekyll-remote-theme
+  jekyll-sitemap
   jekyll-text-theme
   tzinfo (>= 1, < 3)
   tzinfo-data
